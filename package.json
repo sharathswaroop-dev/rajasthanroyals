@@ -1,0 +1,14 @@
+{
+  "name": "rr-pressure-selector",
+  "version": "1.0.0",
+  "description": "RR Pressure Selector Dashboard",
+  "main": "dev.js",
+  "scripts": {
+    "dev": "node dev.js",
+    "start": "node dev.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
+
